@@ -1,3 +1,3 @@
-# eco-systems-neural-odes
+# Neural Ordinary Differential Equations
 
-A small project to implement the concept given in the paper [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) by Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt and David Duvenaud.
+This repository showcases an implementation of Neural Ordinary Differential Equations (ODEs), a groundbreaking concept(https://arxiv.org/abs/1806.07366) by Ricky T. Q. et. al that introduces a novel family of neural networks. In this approach, certain hidden layers, and in some cases, even the sole layer, are implemented using an ordinary differential equation solver.
