@@ -50,6 +50,7 @@ tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-probability==0.20.1
 termcolor==2.3.0
+tfdiffeq @ git+https://github.com/titu1994/tfdiffeq.git@ef646f85cbd0821749a03e7ab51e03e16798fab1
 tqdm==4.65.0
 typing_extensions==4.5.0
 urllib3==1.26.16
