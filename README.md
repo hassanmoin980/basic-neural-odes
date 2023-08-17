@@ -30,7 +30,7 @@ Neural ODEs find applications in various domains due to their unique properties.
 ### Repository Structure
 
 ```bash
-eco-systems-neural-odes
+.
 ├───figures
 └───src
 ```
