@@ -47,7 +47,7 @@ Neural ODEs find applications in various domains due to their unique properties.
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
 
     ```
-    https://github.com/hassanmoin980/eco-systems-neural-odes.git
+    git clone https://github.com/hassanmoin980/eco-systems-neural-odes.git
     ```
 
 2. **Install Dependencies:** Navigate to the repository folder and install the required dependencies:
