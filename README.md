@@ -22,7 +22,7 @@ To dive into the technical details and the original research paper, check out th
 ### Problem Formulation
 
 The parametric law describing the behavior of a hypothetical dynamical system, solved by Neural ODEs, is described as follows:
-$$ \begin{equation}
+$ \begin{equation}
             \begin{cases}
                 x' = a_1x + b_1y + c_1e^{-d_1t}
                 \\
@@ -32,10 +32,7 @@ $$ \begin{equation}
                 \\
                 y(0)=0
             \end{cases}
-            \end{equation} $$
-
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+            \end{equation} $
 
 ### Use Cases
 
