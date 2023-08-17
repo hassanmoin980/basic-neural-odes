@@ -29,7 +29,7 @@ Neural ODEs find applications in various domains due to their unique properties.
 
 ### Repository Structure
 
-```bash
+```
 .
 │   .gitignore
 │   README.md
@@ -41,3 +41,30 @@ Neural ODEs find applications in various domains due to their unique properties.
 └───src
         main.py
 ```
+
+### Getting Started
+
+1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
+
+    ```
+        https://github.com/hassanmoin980/eco-systems-neural-odes.git
+    ```
+
+2. **Install Dependencies:** Navigate to the repository folder and install the required dependencies:
+
+    ```
+    cd eco-systems-neural-odes
+    pip install -r requirements.txt
+    ```
+
+3. **Explore Examples:** Dive into the `src/` directory to find the script showcasing a simple application of Neural ODEs.
+
+### Contributing
+
+We welcome contributions from the community to enhance and expand the Neural ODE repository. Whether it's fixing bugs, adding new features, or improving documentation, your efforts are greatly appreciated. To contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your fork.
+5. Submit a pull request, detailing the changes you've made and their significance.
