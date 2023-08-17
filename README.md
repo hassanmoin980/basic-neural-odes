@@ -29,6 +29,7 @@ Neural ODEs find applications in various domains due to their unique properties.
 
 ### Repository Structure
 
+```bash
 .
 │   .gitignore
 │   README.md
@@ -39,3 +40,4 @@ Neural ODEs find applications in various domains due to their unique properties.
 │
 └───src
         main.py
+```
