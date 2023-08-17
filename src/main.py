@@ -1,3 +1,5 @@
+# Code was implemented from https://computationalmindset.com/en/neural-networks/experiments-with-neural-odes-in-python-with-tensorflowdiffeq.html
+
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
