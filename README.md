@@ -19,6 +19,14 @@ To dive into the technical details and the original research paper, check out th
 - **Continuous Depth:** Unlike traditional architectures with fixed depths, Neural ODEs allow continuous depth, offering an intriguing perspective on network scalability.
 - **Interpretable Dynamics:** Gain insights into the inner dynamics of neural networks by visualizing the evolution of states over time.
 
+### Use Cases
+
+Neural ODEs find applications in various domains due to their unique properties. Some notable use cases include:
+
+- **Time Series Analysis:** Neural ODEs are adept at capturing temporal dependencies in time series data, making them suitable for tasks like forecasting and anomaly detection.
+
+- **Optimization and Physics Simulation:** Neural ODEs can simulate physical systems and optimize parameters by learning the underlying dynamics.
+
 ### Problem Formulation
 
 The parametric law describing the behavior of a hypothetical dynamical system, solved by Neural ODEs, is described as follows:
@@ -30,14 +38,6 @@ y'= a_2x + b_2y + c_2e^{-d_2t}
 x(0)=0 
 \\
 y(0)=0} $$
-
-### Use Cases
-
-Neural ODEs find applications in various domains due to their unique properties. Some notable use cases include:
-
-- **Time Series Analysis:** Neural ODEs are adept at capturing temporal dependencies in time series data, making them suitable for tasks like forecasting and anomaly detection.
-
-- **Optimization and Physics Simulation:** Neural ODEs can simulate physical systems and optimize parameters by learning the underlying dynamics.
 
 ### Repository Structure
 
@@ -73,7 +73,7 @@ Neural ODEs find applications in various domains due to their unique properties.
 
 ### Contributing
 
-We welcome contributions from the community to enhance and expand the Neural ODE repository. Whether it's fixing bugs, adding new features, or improving documentation, your efforts are greatly appreciated. To contribute, follow these steps:
+Contributions are welcomed from the community to enhance and expand the Neural ODE repository. Whether it's fixing bugs, adding new features, or improving documentation, your efforts are greatly appreciated. To contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
