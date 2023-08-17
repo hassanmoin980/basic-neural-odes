@@ -23,13 +23,10 @@ To dive into the technical details and the original research paper, check out th
 
 The parametric law describing the behavior of a hypothetical dynamical system, solved by Neural ODEs, is described as follows:
 
-$$ x' = a_1x + b_1y + c_1e^{-d_1t}
-\\
-y'= a_2x + b_2y + c_2e^{-d_2t}
-\\ 
-x(0)=0
-\\
-y(0)=0 $$
+$$ x' = a_1x + b_1y + c_1e^{-d_1t} $$
+$$ y'= a_2x + b_2y + c_2e^{-d_2t} $$
+$$ x(0)=0 $$
+$$ y(0)=0 $$
 
 ### Use Cases
 
