@@ -22,7 +22,8 @@ To dive into the technical details and the original research paper, check out th
 ### Problem Formulation
 
 The parametric law describing the behavior of a hypothetical dynamical system, solved by Neural ODEs, is described as follows:
-$$ \begin{equation}
+$$ 
+\begin{equation}
             \begin{cases}
                 x' = a_1x + b_1y + c_1e^{-d_1t}
                 \\
