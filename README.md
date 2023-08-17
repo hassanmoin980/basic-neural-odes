@@ -22,8 +22,7 @@ To dive into the technical details and the original research paper, check out th
 ### Problem Formulation
 
 The parametric law describing the behavior of a hypothetical dynamical system, solved by Neural ODEs, is described as follows:
-\begin{equation}
-            \begin{cases}
+$$
                 x' = a_1x + b_1y + c_1e^{-d_1t}
                 \\
                 y'= a_2x + b_2y + c_2e^{-d_2t}
@@ -31,9 +30,7 @@ The parametric law describing the behavior of a hypothetical dynamical system, s
                 x(0)=0
                 \\
                 y(0)=0
-            \end{cases}
-            \end{equation} 
-
+$$
 ### Use Cases
 
 Neural ODEs find applications in various domains due to their unique properties. Some notable use cases include:
